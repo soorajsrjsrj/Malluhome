@@ -4,7 +4,7 @@
     "slug": "Malluhome",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./app/assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
@@ -21,6 +21,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Hello Mallus.This is a new applicattion developed for the malayali mallus who need a community house for there stay with there loved ones. This is not completely constructed and is under construction stage please be patient and suggestion for the better user interface along with user experience for our community."
   }
 }
