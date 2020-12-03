@@ -8,10 +8,10 @@ import { AntDesign } from '@expo/vector-icons';
 export default function WelcomeScreen(props) {
     return (
        <ImageBackground style ={styles.background}
-           source={require("../assets/background.jpg")}>
+           source={require("../assets/backkground.jpg")} blurRadius={8}>
 
                <View style={styles.logoContainer}>
-               <AntDesign name="home" size={100} color="white" style={styles.logo}/>
+               <AntDesign name="home" size={100} color="black" style={styles.logo}/>
 
                {/* <Image style={styles.logo} source={require("../assets/icon.png")} /> */}
                <Text style={styles.tagline}>Home for all</Text>
@@ -31,11 +31,12 @@ const styles = StyleSheet.create({
         flex: 1,
         justifyContent:"flex-end",
         alignItems:"center",
+        
     },tagline:{
         fontSize:25,
         fontWeight:"600",
         paddingVertical:20,
-        color:colors.white
+        color:colors.black
 
     },
 
