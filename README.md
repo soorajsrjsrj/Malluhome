@@ -15,15 +15,11 @@ align="left" height="30%" width="20%">
 
 
 
-<img src="https://github.com/soorajsrjsrj/Malluhome/blob/master/app/assets/screenshots/IMG_0249.PNG" 
+<img src="https://github.com/soorajsrjsrj/Malluhome/blob/master/app/assets/screenshots/IMG_0250.PNG" 
 align="left" height="30%" width="20%">
-<img src="https://github.com/soorajsrjsrj/Malluhome/blob/master/app/assets/screenshots/IMG_0249.PNG" 
+<img src="https://github.com/soorajsrjsrj/Malluhome/blob/master/app/assets/screenshots/IMG_0253.PNG" 
 align="left" height="30%" width="20%">
-<img src="https://github.com/soorajsrjsrj/Malluhome/blob/master/app/assets/screenshots/IMG_0249.PNG" 
-align="left" height="30%" width="20%">
-<img src="https://github.com/soorajsrjsrj/Malluhome/blob/master/app/assets/screenshots/IMG_0249.PNG" 
-align="left" height="30%" width="20%">
-<img src="https://github.com/soorajsrjsrj/Malluhome/blob/master/app/assets/screenshots/IMG_0249.PNG" 
+<img src="https://github.com/soorajsrjsrj/Malluhome/blob/master/app/assets/screenshots/IMG_0254.PNG" 
 align="left" height="30%" width="20%">
 
 <h3></h3>
